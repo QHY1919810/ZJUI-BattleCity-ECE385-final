@@ -1,0 +1,2 @@
+v1
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,frame_drawer:frame_drawer_instance|drawer:drawer_inst|lpm_mult:Mult0|mult_eat:auto_generated|mac_out2,
