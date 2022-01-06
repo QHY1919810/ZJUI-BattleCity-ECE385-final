@@ -1,4 +1,0 @@
-Length: 439484 
-Length (in hex): 6B4BC 
-Addr: 0 to 439483 
-Addr(In HEX): 0 to 6B4BB 
